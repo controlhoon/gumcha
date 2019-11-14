@@ -1,0 +1,23 @@
+
+
+.indexsp {
+    font-size: "24px"; 
+    white-space: nowrap; 
+    overflow: "auto";
+    letter-spacing: 5px;
+}
+
+.indexsp1 {
+    font-size: "24px"; 
+    white-space: nowrap; 
+    overflow: "auto";
+    letter-spacing: 1px;
+}
+
+.indexsp2 {
+    font-size: "24px"; 
+    white-space: nowrap;
+    float: right; 
+    overflow: "auto";
+    letter-spacing: 1px;
+}

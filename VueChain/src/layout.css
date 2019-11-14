@@ -1,0 +1,339 @@
+.topbar {
+  margin-left: 150px;
+  margin-top: 10px;
+  margin-bottom: 3px;
+}
+
+.home {
+  font-family: Century Gothic, sans-serif;
+  margin: -8px;
+  color: #232423;
+}
+
+.nav {
+  background: #A0BAED;
+  display: block;
+  margin-top: 1.2%;
+  
+  height: 10%;
+  
+  list-style: none;
+  position: fixed;
+  z-index:999;
+  width: 100%;
+
+}
+
+.nav .logo h1 {
+  margin:0px
+}
+
+.topbar {
+  margin-left: 150px;
+  margin-top: 10px;
+  margin-bottom: 3px;
+}
+
+.logo {
+  display: inline-block;
+  font-size: 15px;
+  color: #232423;
+  margin-top:1.25%;
+  margin-left:2%;
+  float: left;
+}
+
+.navbar {
+  display: inline-block;
+  float: right;
+  margin-right: 80px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color:unset;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+ul {
+  list-style: none;
+  display: inline-block;
+  margin-left: 10%;
+}
+
+ul li {
+  display: inline-block;
+  margin-top: 9%;
+  margin-left: 40px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #232423;
+}
+
+ul li a:hover {
+  color: white;
+}
+
+.regbut {
+  border: 2px solid #A0BAED;
+  padding: 7px 11px;
+  border-radius: 7px;
+  transition: 0.2s;
+  color: #232423;
+}
+
+.regbut:hover {
+  background: #A0BAED;
+  color: #ffffff;
+  transition: 0.2s;
+}
+
+.main {
+  
+  clear: both;
+  min-height: 700px;
+  background-color: #F1F1F1;
+  margin-top: -20px;
+}
+
+.main2 {
+  
+  clear: both;
+  min-height: 500px;
+  background-color: #F1F1F1;
+  margin-top: -20px;
+}
+
+.header {
+  padding-top: 13%;
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 10px;
+}
+
+.header2 {
+  padding-top: 100px;
+}
+
+.header2-1 {
+  width : 800px;
+  border : 1px solid #A0BAED;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 5px;
+}
+
+.header3 {
+  padding-top: 100px;
+  text-align: center;
+  font-size: 20px;
+  letter-spacing: 10px;
+}
+
+.header4 {
+  padding-top: 10%;
+  text-align: center;
+  font-size: 30px;
+  letter-spacing: 10px;
+}
+
+.header5 {
+  padding-top: 2%;
+  padding-left: 35%;
+  padding-right: 35%;
+  font-size: 30px;
+  
+}
+
+.header6 {
+  padding-top: 13%;
+  padding-left: 20%;
+  padding-right: 30%;
+  font-size: 30px; 
+}
+.confirmH {
+  padding-top: 250px;
+}
+.headerRegis {
+  padding-top: 2%;
+  padding-left: 20%;
+  padding-right: 35%;
+  padding-bottom: 5%;
+  font-size: 30px;
+  
+}
+
+.header p {
+  font-size: 20px;
+  letter-spacing: 6px;
+  margin-top: -10px;
+}
+
+.buttons {
+  margin-top: 80px;
+}
+
+.butleft {
+  float: left;
+  display: inline-block;
+  margin-left: 375px;
+  border: 2px solid black;
+  padding: 5px 30px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #232423;
+}
+
+.butleft:hover  {
+  color: #A0BAED;
+  border: 2px solid #A0BAED;
+  transition: 0.2s;
+}
+
+.butright {
+  float: right;
+  display: inline-block;
+  margin-right: 375px;
+  border: 2px solid black;
+  padding: 5px 30px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #232423;
+}
+
+.butright:hover {
+  color: #A0BAED;
+  border: 2px solid #A0BAED;
+  transition: 0.2s;
+}
+
+.butcenter {
+  float: center;
+  color: #232423;
+  margin-left: 40%;
+}
+
+.agreeleft {
+  margin-left: 30%;
+}
+
+.second {
+  height: 650px;
+}
+
+.blockchain {
+  margin-top: 80px;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.headb h4 {
+  font-size: 34px;
+}
+
+
+.headb p {
+  width: 800px;
+  margin: auto;
+  line-height: 30px;
+  margin-bottom: 60px;
+}
+
+.emblems p:nth-child(2) {
+  font-size: 24px;
+  letter-spacing: 5px;
+}
+
+.emblems p:nth-child(3) {
+  font-size: 14px;
+}
+
+.emblems a {
+  text-decoration: none;
+  color: #232423;
+  transition: 0.5s;
+}
+
+.emblems a:hover {
+  color: #A0BAED;
+  transition: 0.2s;
+}
+
+.bitcoin {
+  display: inline-block;
+  margin-left: -40px;
+}
+
+.bitcoin img {
+  width: 40%;
+  margin-bottom: 15px;
+}
+
+.bitcoin p {
+  width: 500px;
+}
+
+.middles {
+  width: 40px;
+  display: inline-block;
+}
+
+.ethereum {
+  display: inline-block;
+}
+
+.ethereum img {
+  width: 45%;
+  
+}
+
+.ethereum p {
+  width: 500px;
+}
+
+.buttonsBusiness {
+  margin-top: px;
+}
+
+.butrightBusiness {
+  float: center;
+  display: inline-block;
+  border: 2px solid black;
+  padding: 5px 30px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #232423;
+}
+
+.items {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  -ms-flex-direction: column;
+      flex-direction: column;
+  -ms-flex-align: center;
+      align-items: center;
+  -ms-flex-pack: center;
+      justify-content: center;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: black;  
+  text-decoration: none;
+}
+a:active {
+  color: black;
+  text-decoration: none;
+}
